@@ -1,6 +1,6 @@
 {
     "name": "pxt-mecanum-robot-V2",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "keyestudio mecanum robot V2 for microbit",
     "dependencies": {
         "core": "*",
