@@ -141,7 +141,7 @@ namespace mecanumRobotV2 {
     //% group="General" weight=96
     //% block="Initialize robot"
     export function initializeRobot() {
-        irRemote.connectInfrared(DigitalPin.P0)
+        irRemote.connectInfrared(DigitalPin.P9)
         led.enable(false)
     }
 
