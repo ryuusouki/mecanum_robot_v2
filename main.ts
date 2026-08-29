@@ -92,9 +92,9 @@ enum LT {
 
 enum LedCount {
     //% block="Left"
-    Left = 12,
+    Left = 0x09,
     //% block="Right"
-    Right = 13
+    Right = 0x0a
 }
 
 enum LedState {
